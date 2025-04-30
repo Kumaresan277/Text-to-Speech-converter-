@@ -1,2 +1,2 @@
-# Text-to-Speech-converter-
+# Text-to-Speech-converter
 The project Text-to-speech Converter its convert the text into speech format. The main advantage of this application can be extract a text from Different types of file formats like Microsoft word document, pdf file and text file. This application can work in offline dont need a internet connection to convert text into speech. It have many Features to perform while hearing a audio file.
