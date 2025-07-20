@@ -33,6 +33,15 @@ A Text to Speech (TTS) desktop application built with Python, featuring:
 ### ❌ Exit
 - Clean exit with audio stopped
 
+### 📌 Screenshots
+
+### Screenshot-1
+![Home](./Screenshots/Screenshot-1.png)
+
+### Screenshot-2
+![Home](./Screenshots/Screenshot-2.png)
+
+
 ---
 
 ## 📦 Requirements
@@ -59,7 +68,7 @@ Install dependencies with:
 - PyPDF2: PDF reading
 - docx2txt: Word document parsing
 
-### 📌 Screenshots
+
 
 
 
