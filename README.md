@@ -39,5 +39,33 @@ A Text to Speech (TTS) desktop application built with Python, featuring:
 
 Install dependencies with:
 
-```bash
-pip install pyttsx3 pygame PyPDF2 docx2txt customtkinter
+### bash
+- pip install pyttsx3 pygame PyPDF2 docx2txt customtkinter
+
+### 🚀 How to Run
+### Clone this repository:
+
+- bash
+- Copy
+- Edit
+- git clone https://github.com/your-username/your-repository-name.git
+- cd your-repository-name
+- Run the application:
+ 
+- bash
+- Copy
+- Edit
+- python your_script_name.py
+  
+### 🛠️ Tech Stack
+- Python 3.x
+- CustomTkinter: Modern themed GUI
+- pyttsx3: Text-to-speech conversion
+- Pygame: Audio playback with controls
+- PyPDF2: PDF reading
+- docx2txt: Word document parsing
+
+### 📌 Screenshots
+
+
+
