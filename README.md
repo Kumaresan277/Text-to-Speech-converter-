@@ -54,7 +54,7 @@ Install dependencies with:
 ### 🚀 How to Run
 ### Clone this repository:
 
-- git clone https://github.com/your-username/your-repository-name.git
+- git clone https://github.com/Kumaresan277/Text-to-Speech-converter-.git
 - cd your-repository-name
   
 - Run the application:
