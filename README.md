@@ -45,16 +45,10 @@ Install dependencies with:
 ### 🚀 How to Run
 ### Clone this repository:
 
-- bash
-- Copy
-- Edit
 - git clone https://github.com/your-username/your-repository-name.git
 - cd your-repository-name
+  
 - Run the application:
- 
-- bash
-- Copy
-- Edit
 - python your_script_name.py
   
 ### 🛠️ Tech Stack
