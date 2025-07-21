@@ -52,14 +52,16 @@ Install dependencies with:
 - pip install pyttsx3 pygame PyPDF2 docx2txt customtkinter
 
 ### 🚀 How to Run
-## 1)Clone this repository:
+#### 1)Clone this repository:
 
 - git clone https://github.com/Kumaresan277/Text-to-Speech-converter-.git
 - cd your-repository-name
   
-## 2) Run the application:
+#### 2) Run the application:
 - python your_script_name.py
-  
+
+---
+
 ### 🛠️ Tech Stack
 - Python 3.x
 - CustomTkinter: Modern themed GUI
@@ -68,7 +70,11 @@ Install dependencies with:
 - PyPDF2: PDF reading
 - docx2txt: Word document parsing
 
+---
 
+### 👨‍🎓 Author
+- Kumaresan D
+- Team Project
 
 
 
